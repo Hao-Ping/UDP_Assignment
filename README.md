@@ -17,7 +17,8 @@ n is the number of failures that have occured;
 
 multiplier is an arbitrary multiplier.(multiplier = 2 in my case)
 
-## Usage
+## Usage 
+(after compiling both .c file to "server.exe" & "client.exe")
 
 Server: 
 ```bash
